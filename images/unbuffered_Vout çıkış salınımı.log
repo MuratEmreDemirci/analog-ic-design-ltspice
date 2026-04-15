@@ -1,0 +1,22 @@
+LTspice 24.1.4 for Windows
+Circuit: C:\Users\emred\OneDrive\Masaüstü\Yeni klasör\ANALOG TÜM DEVRELER\ödev2\ltspice\unbuffered_Vout çıkış salınımı.net
+Start Time: Mon Nov 24 00:12:12 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+AsciiRawFile = true
+CompressTranOnly = false
+Compress1stOrder = false
+Compress2ndOrder = false
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.549 seconds.
+
+Files loaded:
+C:\Users\emred\OneDrive\Masaüstü\Yeni klasör\ANALOG TÜM DEVRELER\ödev2\ltspice\unbuffered_Vout çıkış salınımı.net
+C:\Users\emred\AppData\Local\LTspice\lib\cmp\standard.mos
+
+Measurement "Vout_max" FAIL'ed
+Measurement "Vout_min" FAIL'ed
+Measurement "Vout_pp" FAIL'ed

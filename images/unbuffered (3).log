@@ -1,0 +1,24 @@
+LTspice 24.1.4 for Windows
+Circuit: C:\Users\emred\OneDrive\Masaüstü\Yeni klasör\ANALOG TÜM DEVRELER\unbuffered.net
+Start Time: Sun Nov 16 20:11:11 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+AsciiRawFile = true
+CompressTranOnly = false
+Compress1stOrder = false
+Compress2ndOrder = false
+WARNING: Node vcm is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.949 seconds.
+
+Files loaded:
+C:\Users\emred\OneDrive\Masaüstü\Yeni klasör\ANALOG TÜM DEVRELER\unbuffered.net
+C:\Users\emred\AppData\Local\LTspice\lib\cmp\standard.mos
+
+C:\Users\emred\OneDrive\Masaüstü\Yeni klasör\ANALOG TÜM DEVRELER\unbuffered.net(61): Voltage not found.
+.meas tran Vout_max max V(out)
+                        ^^^^^^

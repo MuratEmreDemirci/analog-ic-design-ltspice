@@ -1,0 +1,28 @@
+LTspice 24.1.4 for Windows
+Circuit: C:\Users\emred\OneDrive\Masaüstü\Yeni klasör\ANALOG TÜM DEVRELER\Draft1.net
+Start Time: Sun Nov 16 13:33:23 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node n007 is floating.
+WARNING: Node n008 is floating.
+WARNING: Node n002 is floating.
+WARNING: Node n003 is floating.
+WARNING: Node n017 is floating.
+WARNING: Node n015 is floating.
+WARNING: Node n004 is floating.
+WARNING: Node n016 is floating.
+WARNING: Node n014 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.166 seconds.
+
+Files loaded:
+C:\Users\emred\OneDrive\Masaüstü\Yeni klasör\ANALOG TÜM DEVRELER\Draft1.net
+C:\Users\emred\AppData\Local\LTspice\lib\cmp\standard.mos
+
+C:\Users\emred\OneDrive\Masaüstü\Yeni klasör\ANALOG TÜM DEVRELER\Draft1.net(23): Numeric value expected.
+.meas OP ID_M1   param="@M1[id]"
+                       ^^^^^^^^^

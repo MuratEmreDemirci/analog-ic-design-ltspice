@@ -1,0 +1,160 @@
+Title: C:\Users\emred\OneDrive\Masaüstü\Yeni klasör\ANALOG TÜM DEVRELER\unbuffered.net
+Date: Sun Nov 16 18:34:52 2025
+Plotname: Operating Point
+Flags: real
+No. Variables: 75
+No. Points:            1
+Offset:    0.0000000000000000e+00
+Command: Linear Technology Corporation LTspice
+Variables:
+	0	V(vss)	voltage
+	1	V(n009)	voltage
+	2	V(n006)	voltage
+	3	V(n008)	voltage
+	4	V(n002)	voltage
+	5	V(n012)	voltage
+	6	V(vout)	voltage
+	7	V(n014)	voltage
+	8	V(nc_01)	voltage
+	9	V(nc_03)	voltage
+	10	V(n015)	voltage
+	11	V(vdd)	voltage
+	12	V(n003)	voltage
+	13	V(n004)	voltage
+	14	V(n007)	voltage
+	15	V(n001)	voltage
+	16	V(n013)	voltage
+	17	V(n005)	voltage
+	18	V(n010)	voltage
+	19	V(n011)	voltage
+	20	V(nc_02)	voltage
+	21	V(nc_04)	voltage
+	22	V(vcm)	voltage
+	23	I(VDD)	device_current
+	24	Id(M1)	device_current
+	25	Ig(M1)	device_current
+	26	Is(M1)	device_current
+	27	Ib(M1)	device_current
+	28	Id(M4)	device_current
+	29	Ig(M4)	device_current
+	30	Is(M4)	device_current
+	31	Ib(M4)	device_current
+	32	Id(M6)	device_current
+	33	Ig(M6)	device_current
+	34	Is(M6)	device_current
+	35	Ib(M6)	device_current
+	36	I(IBIAS)	device_current
+	37	I(Rbleed_n005)	device_current
+	38	I(Rbleed_n014)	device_current
+	39	Id(M3)	device_current
+	40	Ig(M3)	device_current
+	41	Is(M3)	device_current
+	42	Ib(M3)	device_current
+	43	Id(M8)	device_current
+	44	Ig(M8)	device_current
+	45	Is(M8)	device_current
+	46	Ib(M8)	device_current
+	47	I(VIN-)	device_current
+	48	I(R1)	device_current
+	49	I(Rbleed_n007)	device_current
+	50	I(Vcm)	device_current
+	51	I(Rbleed_n011)	device_current
+	52	Id(M5)	device_current
+	53	Ig(M5)	device_current
+	54	Is(M5)	device_current
+	55	Ib(M5)	device_current
+	56	I(CC)	device_current
+	57	Id(M7)	device_current
+	58	Ig(M7)	device_current
+	59	Is(M7)	device_current
+	60	Ib(M7)	device_current
+	61	I(CL)	device_current
+	62	I(Rbleed_n001)	device_current
+	63	I(Rbleed_n006)	device_current
+	64	I(Rbleed_nc02)	device_current
+	65	I(VSS)	device_current
+	66	Id(M2)	device_current
+	67	Ig(M2)	device_current
+	68	Is(M2)	device_current
+	69	Ib(M2)	device_current
+	70	I(VIN+)	device_current
+	71	I(Rbleed_n002)	device_current
+	72	I(Rbleed_n012)	device_current
+	73	I(Rbleed_n013)	device_current
+	74	I(Rbleed_n015)	device_current
+Values:
+0		-2.000000000000000e+00
+	-1.854101964065222e+00
+	-1.997548441664433e+00
+	0.000000000000000e+00
+	1.688650364563671e+00
+	-1.688764205261151e+00
+	4.279815582780198e-01
+	-1.688639533652982e+00
+	1.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	2.000000000000000e+00
+	2.906024475178295e-01
+	2.906024501160873e-01
+	-1.997548441661839e+00
+	1.688650364563631e+00
+	2.000000000000000e+00
+	1.688652435729180e+00
+	-1.952720285441149e+00
+	-1.692472520283423e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	-1.298450976173365e-03
+	2.922040023606489e-04
+	0.000000000000000e+00
+	-2.922039999090906e-04
+	-2.451558335567444e-12
+	2.922056910110136e-04
+	-0.000000000000000e+00
+	-2.922040023606490e-04
+	-1.688650364612611e-09
+	6.764395941513382e-04
+	-0.000000000000000e+00
+	-6.764379054989024e-04
+	-1.688652435778026e-09
+	3.760000000000000e-05
+	1.688652435729180e-09
+	-1.688639533652982e-09
+	2.922056910110136e-04
+	-0.000000000000000e+00
+	-2.922040023606490e-04
+	-1.688650364612579e-09
+	3.759999999877612e-05
+	0.000000000000000e+00
+	-3.760169248013294e-05
+	1.692481356817590e-09
+	0.000000000000000e+00
+	0.000000000000000e+00
+	2.451558338160576e-12
+	-1.692575530070254e-09
+	-1.692472520283424e-09
+	5.844079998181779e-04
+	0.000000000000000e+00
+	-5.844096885835139e-04
+	1.688765335987436e-09
+	4.121373244857975e-25
+	6.764379054989025e-04
+	0.000000000000000e+00
+	-6.764395941384362e-04
+	1.688639533701444e-09
+	4.279815582780198e-24
+	1.688650364563631e-09
+	2.451558335567317e-12
+	0.000000000000000e+00
+	1.298450980096462e-03
+	2.922040023606489e-04
+	0.000000000000000e+00
+	-2.922039999090906e-04
+	-2.451558338160512e-12
+	0.000000000000000e+00
+	1.688650364563671e-09
+	-1.688764205261151e-09
+	-2.220446049250313e-25
+	0.000000000000000e+00

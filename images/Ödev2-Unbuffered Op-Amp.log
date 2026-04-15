@@ -1,0 +1,19 @@
+LTspice 24.1.4 for Windows
+Circuit: C:\Users\emred\OneDrive\Masaüstü\Yeni klasör\ANALOG TÜM DEVRELER\ödev2\ltspice\Ödev2-Unbuffered Op-Amp.net
+Start Time: Sun Nov 23 21:30:20 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+AsciiRawFile = true
+CompressTranOnly = false
+Compress1stOrder = false
+Compress2ndOrder = false
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.133 seconds.
+
+Files loaded:
+C:\Users\emred\OneDrive\Masaüstü\Yeni klasör\ANALOG TÜM DEVRELER\ödev2\ltspice\Ödev2-Unbuffered Op-Amp.net
+C:\Users\emred\AppData\Local\LTspice\lib\cmp\standard.mos
+

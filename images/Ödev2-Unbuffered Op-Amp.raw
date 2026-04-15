@@ -1,0 +1,110 @@
+Title: C:\Users\emred\OneDrive\Masaüstü\Yeni klasör\ANALOG TÜM DEVRELER\ödev2\ltspice\Ödev2-Unbuffered Op-Amp.net
+Date: Sun Nov 23 21:30:20 2025
+Plotname: Operating Point
+Flags: real
+No. Variables: 50
+No. Points:            1
+Offset:    0.0000000000000000e+00
+Command: Linear Technology Corporation LTspice
+Variables:
+	0	V(n004)	voltage
+	1	V(n002)	voltage
+	2	V(vss)	voltage
+	3	V(-vin)	voltage
+	4	V(in+)	voltage
+	5	V(vdd)	voltage
+	6	V(vout)	voltage
+	7	V(n001)	voltage
+	8	V(n003)	voltage
+	9	V(+vin)	voltage
+	10	I(I1)	device_current
+	11	I(CL)	device_current
+	12	Id(M1)	device_current
+	13	Ig(M1)	device_current
+	14	Is(M1)	device_current
+	15	Ib(M1)	device_current
+	16	Id(M6)	device_current
+	17	Ig(M6)	device_current
+	18	Is(M6)	device_current
+	19	Ib(M6)	device_current
+	20	I(VSS)	device_current
+	21	Id(M3)	device_current
+	22	Ig(M3)	device_current
+	23	Is(M3)	device_current
+	24	Ib(M3)	device_current
+	25	Id(M8)	device_current
+	26	Ig(M8)	device_current
+	27	Is(M8)	device_current
+	28	Ib(M8)	device_current
+	29	I(+Vin)	device_current
+	30	I(V_IN)	device_current
+	31	I(Cc)	device_current
+	32	I(VDD)	device_current
+	33	Id(M4)	device_current
+	34	Ig(M4)	device_current
+	35	Is(M4)	device_current
+	36	Ib(M4)	device_current
+	37	Id(M5)	device_current
+	38	Ig(M5)	device_current
+	39	Is(M5)	device_current
+	40	Ib(M5)	device_current
+	41	Id(M7)	device_current
+	42	Ig(M7)	device_current
+	43	Is(M7)	device_current
+	44	Ib(M7)	device_current
+	45	Id(M2)	device_current
+	46	Ig(M2)	device_current
+	47	Is(M2)	device_current
+	48	Ib(M2)	device_current
+	49	I(-Vin)	device_current
+Values:
+0		-5.000001003333302e-01
+	1.447627852955214e+00
+	-2.000000000000000e+00
+	0.000000000000000e+00
+	1.000000000000000e+00
+	2.000000000000000e+00
+	1.446788260591088e+00
+	1.578517373407906e+00
+	-4.354141413092088e-01
+	1.000000000000000e+00
+	2.250000000000000e-05
+	1.446788260591088e-23
+	1.895858782383386e-06
+	0.000000000000000e+00
+	-1.895856758451872e-06
+	-2.023931514717115e-12
+	2.250000389396893e-05
+	-0.000000000000000e+00
+	-3.051150441520412e-06
+	-1.944885345244852e-05
+	6.750000402274865e-05
+	2.060414483040331e-05
+	-0.000000000000000e+00
+	-1.776476597561853e-06
+	-1.882766823284145e-05
+	2.250000000000000e-05
+	0.000000000000000e+00
+	-2.249999849000010e-05
+	-1.509999899666670e-12
+	0.000000000000000e+00
+	0.000000000000000e+00
+	-2.518777092378022e-27
+	-6.750000402274863e-05
+	1.895889583507587e-06
+	-0.000000000000000e+00
+	-1.776476466672333e-06
+	-1.194131168352532e-07
+	2.250000012917192e-05
+	0.000000000000000e+00
+	-2.249999855458606e-05
+	-1.574585858690791e-12
+	2.250000389357672e-05
+	0.000000000000000e+00
+	-2.250000043678846e-05
+	-3.456788260591088e-12
+	2.060414134678852e-05
+	0.000000000000000e+00
+	-2.060413945374653e-05
+	-1.893041994264422e-12
+	0.000000000000000e+00
